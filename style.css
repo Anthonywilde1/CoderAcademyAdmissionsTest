@@ -1,7 +1,7 @@
 body {
   max-width: 30rem;
   background-color: mintcream;
-  color: darkolivegreen;
+  color: black;
   font-family: 'Roboto Condensed', sans-serif;
   margin-left: 20px;
 }
@@ -11,7 +11,7 @@ html {
 }
 
 h1 {
-  color: yellow;
+  color: black;
   background-color: red;
 
 }
