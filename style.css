@@ -45,5 +45,5 @@ h3 {
 }
 .paragraph-three {
   font-style: italic;
-  transform: scaleY(-1);
+  transform: scaleY();
 }
