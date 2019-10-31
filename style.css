@@ -39,9 +39,8 @@ h3 {
 
 .paragraph-three {
   font-size: 2rem;
-  
-}
-.paragraph-three {
-  
   transform: scaleY();
+}
+.paragraph-four {
+
 }
